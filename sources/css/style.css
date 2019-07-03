@@ -1,0 +1,39 @@
+.container {
+    margin: 0px auto;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-stretch: condensed;
+}
+
+.headline {
+    color: #660066;
+    font-weight: bolder;
+}
+
+.headline_1 {
+    color: #660066;
+    font-weight: bolder;
+    font-size: 10px;
+}
+
+.mark {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+
+.table_2 {
+    width: 326px;
+}
+
+.table_4  {
+    color: #660066;
+}
+
+td {
+    vertical-align: top; /* Выравнивание по верхнему краю ячеек */
+   }
+
